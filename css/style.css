@@ -136,18 +136,12 @@ body {
 	color: #8e8e8e;
 	padding: 0 22px 26px 22px;
 }
-
-@media screen and (max-height: 640px) and (min-width: 1280px){
-	.content {
-		padding-top: 2%;
-	}
-}
-@media screen and (min-height: 1024px) and (max-width: 1280px) {
+@media screen and (min-height: 1024px) {
 	.content {
 		padding: 40% 6% 4%;
 	}
 }
-@media screen and (min-width: 0px) and (max-height: 900px) {
+@media screen and (max-height: 600px) {
 	.header {
 		box-shadow: 0px 4px 4px 0px rgba(181,181,181,0.4);
 	}
