@@ -1,6 +1,7 @@
 body {
 	background-color: #eaeaea;
 	font-family: "OpenSansRegular", sans-serif;
+	font-size: 16px;
 	position: absolute;
 	margin: 0;
 	padding: 0;
@@ -36,7 +37,7 @@ body {
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #000;
-	font-size: 16px;
+	font-size: 1em;
 	font-family: "OpenSansLight", sans-serif;
 }
 .header_wrap li a img {
@@ -86,7 +87,7 @@ body {
 }
 .item {
 	font-family: "OpenSansRegular", sans-serif;
-	font-size: 18px;
+	font-size: 1.125em;
 	padding: 30px 100px 30px 130px;
 }
 .item img {
@@ -104,7 +105,7 @@ body {
 }
 .to_continue {
 	font-family: "OpenSansSemiBold", sans-serif;
-	font-size: 24px;
+	font-size: 1.5em;
 }
 .btn {
 	background: linear-gradient(#522ac7,#431ead,#36169d);
@@ -112,7 +113,7 @@ body {
 	color: #fff;
 	display: inline-block;
 	font-family: "OpensansRegular",sans-serif;
-	font-size: 30px;
+	font-size: 1.875em;
 	padding: 22px 80px 22px 80px;
 	margin: 26 0 52 0;
 	text-transform: uppercase;
@@ -127,7 +128,7 @@ body {
 	text-align: center;
 	bottom: 0; 
 	font-family: "Arial", sans-serif;
-	font-size: 13px;
+	font-size: 0.813em;
 	color: #8e8e8e;
 	padding: 0 22px 26px 22px;
 }
@@ -152,7 +153,7 @@ body {
 		width: 32%;
 	}
 	.header_wrap li a {
-		font-size: 12px;
+		font-size: 0.75em;
 	}
 	.header_wrap li a img {
 		padding-right: 7px;
@@ -170,10 +171,10 @@ body {
 		line-height: 36px;
 	}
 	.top_panel h1{
-		font-size: 15px;
+		font-size: 0.938em;
 	}
 	.item {
-		font-size: 10px;
+		font-size: 0.625em;
 		padding: 26px 80px 10px;
 	}
 	.item img {
@@ -181,15 +182,15 @@ body {
 		height: 32px;
 	}
 	.to_continue {
-		font-size: 13px;
+		font-size: 0.813em;
 	}
 	.btn {
-		font-size: 15px;
+		font-size: 0.938em;
 		padding: 10px 80px 10px 80px;
 		margin: 9 0 20 0;
 	}
 	.footer {
-		font-size: 8px;
+		font-size: 0.5em;
 		padding: 0 14px 7px 14px;
 	}
 }
@@ -203,7 +204,7 @@ body {
 		width: 32%;
 	}
 	.header_wrap li a {
-		font-size: 12px;
+		font-size: 0.75em;
 	}
 	.header_wrap li a img {
 		padding-right: 7px;
@@ -214,14 +215,14 @@ body {
 		line-height: 35px;
 	}
 	.top_panel h1{
-		font-size: 16px;
+		font-size: 1em;
 	}
 	.item img {
 		padding-right: 12px;
 		height: 42px;
 	}
 	.item {
-		font-size: 14px;
+		font-size: 0.875em;
 		padding: 40px 10px 34px;
 	}
 	.content {
@@ -232,18 +233,18 @@ body {
 		box-shadow: 0px 1px 0px 0px rgba(196,196,196,1);
 	}
 	.to_continue {
-		font-size: 18px;
+		font-size: 1.125em;
 		padding-left: 20px;
 		padding-right: 20px;
 		line-height: 20px;
 	}
 	.btn {
-		font-size: 27px;
+		font-size: 1.688em;
 		padding: 19px 70px 19px 70px;
 		margin: 22px 0 36px 0;
 	}
 	.footer {
-		font-size: 10.5px;
+		font-size: 0.656em;
 		padding: 0 2px 8px 2px;
 	}
 }
@@ -259,6 +260,6 @@ body {
 		margin-bottom: 26px;
 	}
 	.footer {
-		font-size: 11px;
+		font-size: 0.688em;
 	}
 }
